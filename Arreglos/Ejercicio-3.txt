@@ -1,17 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Ejercicios_de_Gamalier_3_Csharp
+
+namespace Ej
 {
-    /* Ejercicio 3:
-    Definir un método que reciba como parámetros dos arreglos, uno de tipo string para los
-    nombres de los estudiantes y otro de tipo int para las calificaciones. Luego en el 
-    Programa principal, debes implementar los arreglos y hacer la llamada al metodo definido
-    Los datos deben ser leidos por teclado
-    */
+
     internal class Program
     {
         static void Main(string[] args)
