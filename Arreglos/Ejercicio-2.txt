@@ -1,20 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Ejercicios_de_Gamalier_2_Csharp
 {
-    /* Ejercicio 2:
-    Una tienda de electrónica tiene una matriz que representa el inventario de distintos 
-    tipos de Dispositivos (televisores, laptops, teléfonos, etc.) en varios almacenes. 
-    Cada fila represena un tipo de dispositivo y cada columna un almacén.
 
-    Calcula la cantitad total de dispositivos en cada almacén.
-    Determina qué dispositivo tiene mayor y menos cantidad en cada almacén.
-    */
     internal class Program
     {
         static void Main(string[] args)
