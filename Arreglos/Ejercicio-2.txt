@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace Ejercicios_de_Gamalier_2_Csharp
+namespace Ejerc
 {
 
     internal class Program
